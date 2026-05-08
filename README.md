@@ -1,14 +1,14 @@
 👋 Olá, eu sou o Thúlio
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-🚀 Focado em me tornar desenvolvedor e gerar renda com tecnologia
+🚀 Focado em me tornar desenvolvedor.
 📍 Brasil
 
 ---
 
 🎯 Meu objetivo
 
-Entrar na área de desenvolvimento o mais rápido possível, criando projetos práticos e soluções simples que resolvem problemas reais.
+📚 Atualmente focado em estudos, desenvolvimento de projetos e evolução técnica.
 
 ---
 
@@ -24,12 +24,7 @@ Entrar na área de desenvolvimento o mais rápido possível, criando projetos pr
 
 💼 Como posso ajudar
 
-Atualmente busco oportunidades para:
-
-- Projetos simples de programação
-- Organização e automação básica de tarefas
-- Suporte em projetos iniciais
-- Aprender trabalhando em projetos reais
+🤝 Posso ajudar com suporte básico em TI, organização digital, resolução de problemas simples, projetos de aprendizado em programação, lógica de desenvolvimento, documentação e troca de conhecimento com outros estudantes e profissionais da área de tecnologia.
 
 ---
 
@@ -46,7 +41,7 @@ Este perfil será atualizado com projetos práticos conforme avanço nos estudos
 - Criar projetos reais (mesmo simples)
 - Publicar códigos no GitHub
 - Aprender novas tecnologias
-- Conseguir minha primeira renda com programação
+- Avançar em Conhecimento Técnico
 
 ---
 
